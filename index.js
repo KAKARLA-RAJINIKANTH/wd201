@@ -1,5 +1,5 @@
-let hello = "Hello Node.js!";
-returnHello = () =>{
-    console.log(hello);
+let X = "Hello Node.js!";
+returnX = () =>{
+    console.log(X);
 }
-returnHello();
+returnX();
